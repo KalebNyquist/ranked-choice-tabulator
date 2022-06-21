@@ -1,6 +1,6 @@
 # Results for _Burlington 2009 Mayoral Election_
 
-A demonstration of [Nyquist's Ranked Choice Voting Tabulator](https://github.com/KalebNyquist/ranked-choice-tabulator) on results from [Burlington's 2009 Mayoral Election](https://en.wikipedia.org/wiki/2009_Burlington_mayoral_election).
+A demonstration of [Nyquist's Ranked Choice Voting Tabulator](https://github.com/KalebNyquist/ranked-choice-tabulator) on results from [Burlington's 2009 Mayoral Election](https://en.wikipedia.org/wiki/2009_Burlington_mayoral_election). Note that all paragraph-length text in the outputs below is automatically generated entirely by the tabulator.
 
 ## Inputs
 
