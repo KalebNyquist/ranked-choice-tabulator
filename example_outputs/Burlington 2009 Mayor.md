@@ -55,16 +55,16 @@ Before we start moving votes around, note that Andy Montroll only needs 429 vote
 
 Non-monotonicity begins when, of the 3295 voters who prefer Kurt Wright over Bob Kiss & Andy Montroll, at minimum:
 
-​	• 495 of the 495 voters who **prefer Bob Kiss over Andy Montroll** defect, and place Bob Kiss above Kurt Wright 
-​    • 245 of the 1289 voters who **equally rank Bob Kiss and Andy Montroll** defect and place Bob Kiss above Kurt Wright and Andy Montroll
-​	• 0 of the 1511 voters who **prefer Andy Montroll over Bob Kiss** defect and place Bob Kiss above Kurt Wright and Andy Montroll
+- 495 of the 495 voters who **prefer Bob Kiss over Andy Montroll** defect, and place Bob Kiss above Kurt Wright 
+- 245 of the 1289 voters who **equally rank Bob Kiss and Andy Montroll** defect and place Bob Kiss above Kurt Wright and Andy Montroll
+- 0 of the 1511 voters who **prefer Andy Montroll over Bob Kiss** defect and place Bob Kiss above Kurt Wright and Andy Montroll
 
 In this range of non-monotonicity Andy Montroll will win the election instead of Bob Kiss despite not receiving any more votes due to Kurt Wright having an earlier elimination.
 
 Non-monotonicity ends when, of the 3295 voters who prefer Kurt Wright over Bob Kiss & Andy Montroll, at maximum:
-    • 495 of the 495 voters who **prefer Bob Kiss over Andy Montroll** defect, and place Bob Kiss above Kurt Wright 
-    • 587 of the 1289 voters who **equally rank Bob Kiss and Andy Montroll** defect and place Bob Kiss above Kurt Wright and Andy Montroll
-    • 0 of the 1511 voters who **prefer Andy Montroll over Bob Kiss** defect and place Bob Kiss above Kurt Wright and Andy Montroll
+- 495 of the 495 voters who **prefer Bob Kiss over Andy Montroll** defect, and place Bob Kiss above Kurt Wright 
+- 587 of the 1289 voters who **equally rank Bob Kiss and Andy Montroll** defect and place Bob Kiss above Kurt Wright and Andy Montroll
+- 0 of the 1511 voters who **prefer Andy Montroll over Bob Kiss** defect and place Bob Kiss above Kurt Wright and Andy Montroll
 
 At this point, Bob Kiss will still be elected winner when receiving more votes.
 
