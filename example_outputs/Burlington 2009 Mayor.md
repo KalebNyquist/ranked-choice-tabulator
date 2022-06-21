@@ -29,9 +29,9 @@ Bob Kiss won the election after 5 instant run-off rounds.
 
 ### Visualization
 
-![](assets\burlington_2009_graph.png)
+![](assets/burlington_2009_graph.png)
 
-![](assets\burlington_2009_legend.png)
+![](assets/burlington_2009_legend.png)
 
 ### Narrative Results
 
