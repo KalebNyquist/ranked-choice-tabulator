@@ -17,7 +17,7 @@ Because the idea that ranking a candidate higher could cause a candidate to lose
 
 The guiding assumption of the algorithm for detecting non-monotonicity is that the set of candidates who compete in the final round of voting is a function of the order in which other candidates were eliminated. Therefore, various elimination orders (permutations of the non-winning candidates) are forced upon the results to see if a different candidate can emerge victorious over the real winner in the final round of voting. If so, additional math is used to determine the third candidate who had to lose votes to the real winner for this result to occur, and then determine the lower and upper range of non-monotonicity.
 
-I am continuing to test this algorithm to verify that it has been set up correctly. There may still be false negatives but there should be not any false positives. Notably, it does produce the correct result for the 2009 Burlington Mayoral election, perhaps the canonical instance of non-monotonicity for ranked choice elections in the United States.
+I am continuing to test this algorithm to verify that it has been set up correctly. There may still be false negatives but there should be not any false positives. Notably, it does produce the correct result for [the 2009 Burlington Mayoral election](example_outputs/Burlington%202009%20Mayor.md), perhaps the canonical instance of non-monotonicity for ranked choice elections in the United States.
 
 
 
