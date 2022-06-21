@@ -1,3 +1,10 @@
+# Project specific files
+election_data/
+read_cfgs.json
+read_cfgs_backup.json
+view_cfgs.json
+view_cfgs_backup.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
