@@ -111,7 +111,7 @@ There's a gap in the RCV ecosystem for **independent, objective, rapid** non-mon
 1. **RCV is expanding rapidly** - 7 states voted on RCV measures in 2024
 2. **CVR data increasingly available** - Major jurisdictions (Alaska, Maine, NYC, Minneapolis, SF) now publish within 24-48 hours
 3. **3.8% failure rate** in competitive elections = roughly 1-in-26 elections
-4. **Unique positioning** - The "both-and" approach (detecting issues BUT providing upper bounds) offers credibility that pure advocacy orgs lack
+4. **Unique positioning** - The "both-and" approach (detecting issues BUT providing upper bounds) offers credibility that pure advocacy orgs lack. By reporting on entire election cycles ("2 of 47 elections showed non-monotonicity"), the tool becomes an objective scorecard rather than cherry-picking failures
 
 ### Target Jurisdictions for CVR Analysis
 
@@ -149,6 +149,7 @@ There's a gap in the RCV ecosystem for **independent, objective, rapid** non-mon
 |------|----------|-------|
 | Pre-built importers for major jurisdictions | Critical | Alaska, Maine, NYC, Minneapolis, SF |
 | Batch processing mode | High | Analyze all races in a CVR dump |
+| **Election cycle summary reports** | High | "X of Y elections were non-monotonic" - positions tool as objective scorecard, not gotcha machine |
 | Automated report generation | High | Markdown/PDF with visualizations |
 | Performance optimization | Medium | Permutation approach won't scale to 10+ candidates |
 | CI/CD pipeline | Medium | Automated testing |
